@@ -1,0 +1,16 @@
+Results for IF.txt:
+Total words: 287
+Top 3 most frequent words:
+you: 14
+If: 13
+can: 12
+
+Results for AlwaysRememberUsThisWay.txt:
+Total words before splitting contractions: 223
+Top 3 most frequent words:
+I: 15
+the: 12
+will: 8
+
+Grand total of words across both files: 510
+IP Address of the container: 172.17.0.2
