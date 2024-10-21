@@ -2,7 +2,9 @@ import os
 import socket
 from collections import Counter
 
+# Function to expand common contractions into their full forms
 def expand_contractions(text):
+    # Dictionary to map contractions to their full forms
     contractions_dict = {
         "I'm": "I am",
         "I'll": "I will",
